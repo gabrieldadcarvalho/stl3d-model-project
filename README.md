@@ -35,7 +35,7 @@ stl3d-model-project
 To set up the project, clone the repository and install the required dependencies:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/gabrieldadcarvalho/stl3d-model-project.git
 cd stl3d-model-project
 pip install -r requirements.txt
 ```
